@@ -3,5 +3,5 @@ def deli_line(a)
   if a_length == 0 
     puts "Th line is currently empty."
   else 
-    a.each
+    a.each.with_index
   
