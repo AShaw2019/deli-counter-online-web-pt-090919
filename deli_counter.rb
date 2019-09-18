@@ -1,0 +1,1 @@
+def deli_counter
