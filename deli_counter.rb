@@ -1,1 +1,2 @@
-def deli_line
+def deli_line(x)
+  
