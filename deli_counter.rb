@@ -8,3 +8,4 @@ def deli_line(a)
     end
     puts "The line is currently: #{line_array.join(" ")}"
   end
+  end
