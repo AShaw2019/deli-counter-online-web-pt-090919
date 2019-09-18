@@ -5,5 +5,5 @@ def deli_line(a)
   else 
     a.each.with_index(1) do |name, index|
       line_array.push("#{name}. #{index}")
-      
+    end
   
