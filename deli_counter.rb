@@ -6,4 +6,5 @@ def deli_line(a)
     a.each.with_index(1) do |name, index|
       line_array.push("#{name}. #{index}")
     end
+    
   end
